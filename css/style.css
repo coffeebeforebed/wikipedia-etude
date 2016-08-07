@@ -1,0 +1,9 @@
+@font-face {
+	font-family: ebgaramond-r;
+	src: url('LibreBaskerville-Regular.ttf');
+}
+body {
+	font-family: ebgaramond-r;
+	font-size: 32pt;
+	background-color: #f1f1f1;
+}
