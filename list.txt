@@ -1,4 +1,4 @@
-The following text is a collection of arbitrary knowledge taken as part of a "linear" navigation of Wikipedia links taken in the interest of direct/indirect benefit of the development of an artist-run internet space. 
+The following text is a collection of arbitrary knowledge taken as part of a linear navigation of Wikipedia links taken in the interest of direct and/or indirect benefit towards the development of an artist-run space on the internet.
 
 Sunday August 07 5:19 AM PST
 https://en.m.wikipedia.org/wiki/Canadian_artist-run_centres
@@ -32,7 +32,7 @@ https://en.m.wikipedia.org/wiki/List_of_largest_empires
 There are various notions of size that can be used to rank empires.
 
 https://en.m.wikipedia.org/wiki/World_population
-Estimates of the total number of humans who have ever lived range in the order of 100 billion. 
+Estimates of the total number of humans who have ever lived range in the order of 100 billion.
 
 https://en.m.wikipedia.org/wiki/Sorites_paradox
 1000000 grains is a heap.
@@ -50,7 +50,28 @@ https://en.m.wikipedia.org/wiki/Concept
 In this sense, concepts' structure relies on their relationships to other concepts as mandated by a particular mental theory about the state of the world.
 
 https://en.m.wikipedia.org/wiki/Hard_problem_of_consciousness
-They knock, impel, and resist one another, just as the greater do; and that is all they can do... [I]t is impossible to conceive that matter, either with or without motion, could have originally in and from itself sense, perception, and knowledge; as is evident from hence that then sense, perception, and knowledge must be a property eternally inseparable from matter and every particle of it.
+They knock, impel, and resist one another, just as the greater do; and that is all they can do...
 
-https://en.m.wikipedia.org/wiki/Philosophical_zombie
+https://en.m.wikipedia.org/wiki/Qualia
+Thus, we do not have any direct access to the outside world that would allow us to reliably distinguish it from an illusion that caused identical experiences. 
 
+https://en.m.wikipedia.org/wiki/Sense_data
+There exists a world of material objects.
+
+https://en.m.wikipedia.org/wiki/Na%C3%AFve_realism
+Being complex and of no interest to fundamental physics isn't a failure to be "real"
+
+https://en.m.wikipedia.org/wiki/World_view
+(e.g. literally, as in religious belief in immortality, symbolically, as in art works or children to live on after one's death, or in contributions to one's culture).
+
+https://en.m.wikipedia.org/wiki/Terror_management_theory
+"Would death be any less frightening if you knew for certain that it would come next Tuesday at 5:15 p.m., and that your hopes for an afterlife were illusory?"
+
+https://en.m.wikipedia.org/wiki/The_Denial_of_Death
+One "normal" solution to this problem is belief in love.
+
+https://en.m.wikipedia.org/wiki/Uncanny_valley
+A mechanism with a human facade and a mechanical interior plays on our subconscious fear that we are all just soulless machines.
+
+https://en.m.wikipedia.org/wiki/Postmodernism
+We are now controlled not by binding extra-linguistic value paradigms defining notions of collective identity and ultimate purpose, but rather by our automatic responses to different species of "language games".
