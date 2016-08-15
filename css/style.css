@@ -4,10 +4,10 @@
 }
 body {
 	font-family: ebgaramond-r;
-	font-size: 21pt;
-	line-height: 24pt;
-	width: 90%;
-	margin: auto;
+	font-size: 14pt;
+	line-height: 18pt;
+	width: 500px;
+	margin: 25px;
 	background-color: white;
 }
 span:hover {
